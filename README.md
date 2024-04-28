@@ -22,3 +22,7 @@ El funcionamiento esperado de la aplicación es el siguiente:
 - Solo se considerarán como válidas las pruebas que corrijan todos los errores presentes en la aplicación.
 
 ¡Buena suerte y que tengas una excelente experiencia resolviendo la prueba!
+
+### Cambios Realizados
+
+Los errores corregidos están comentados en sus líneas correspondientes, muchas gracias por la oportunidad.
